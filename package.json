@@ -28,7 +28,7 @@
     "test": "npm run lint && npm run flow"
   },
   "dependencies": {
-    "react-native-orientation-listener": "0.0.4"
+    "react-native-orientation": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.2",
